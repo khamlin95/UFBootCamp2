@@ -1,0 +1,23 @@
+#searchBar {
+  margin: 15px 10px;
+}
+
+.tableWrapper {
+  max-height: 400px;
+  overflow: auto;
+}
+
+.deleteButton{
+  cursor: pointer;
+  background: #ce4a4a;
+  text-align: center;
+  
+}
+
+.submitButton{
+  cursor: pointer;
+}
+
+.jumbotron{
+  background-color: rgba(249, 249, 249, 0.92)
+}
